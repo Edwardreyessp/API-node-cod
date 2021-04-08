@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "name": "Kar98k",
-        "user": "Sin accesorios"
+        "name": "FFAR1",
+        "type": "Fusil de asalto"
     },
     {
         "id": 2,
-        "name": "AUG",
-        "user": "Sin accesorios"
+        "name": "CR-56 AMAX",
+        "type": "Fusil de asalto"
     }
 ]
